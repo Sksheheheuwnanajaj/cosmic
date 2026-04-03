@@ -1,4 +1,4 @@
--- ts file was generated at discord.gg/25ms
+-- cosmic discord.gg/SexKW4Fq5Z 
 
 hookfunction(require(game:GetService('ReplicatedStorage').Effect.Container.Death), function() end)
 hookfunction(require(game:GetService('ReplicatedStorage').Effect.Container.Respawn), function() end)
